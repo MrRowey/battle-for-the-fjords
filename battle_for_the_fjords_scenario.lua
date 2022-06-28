@@ -7,7 +7,7 @@ ScenarioInfo = {
     type = 'campaign_coop',
     starts = true,
     size = {1024, 1024},
-    reclaim = {104409, 652640},
+    reclaim = {114457.5, 652640},
     map = '/maps/battle_for_the_fjords/battle_for_the_fjords.scmap',
     save = '/maps/battle_for_the_fjords/battle_for_the_fjords_save.lua',
     script = '/maps/battle_for_the_fjords/battle_for_the_fjords_script.lua',
@@ -17,7 +17,7 @@ ScenarioInfo = {
             teams = {
                 {
                     name = 'FFA',
-                    armies = {'ARMY_1', 'ARMY_2', 'ARMY_3', 'ARMY_4', 'ARMY_5', 'ARMY_6', 'ARMY_7', 'ARMY_8'}
+                    armies = {'ARMY_1', 'UEFAlly', 'CYBRANEnemy'}
                 },
             },
             customprops = {

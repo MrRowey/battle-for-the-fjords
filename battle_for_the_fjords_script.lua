@@ -8,3 +8,7 @@ end
 
 function OnStart(scenario)
 end
+
+function StartMission1()
+    
+end
