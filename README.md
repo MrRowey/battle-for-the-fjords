@@ -15,6 +15,9 @@ Here in the image below is the ruff desgin on the areas of the map that will exp
 # The Progress
 I will try to keep any updats listes here if this is in the form of Strema timelaps of certain thing done or some writen stuff this ams to be a learing curve for me but also as another documents Mission making tool.
 
+## Youtube
+
+- [Dev Log 1](https://youtu.be/pPUhModApMg)
 
 
 # License
