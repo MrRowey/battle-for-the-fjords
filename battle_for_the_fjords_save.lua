@@ -220,14 +220,14 @@ Scenario = {
                     ['orientation'] = VECTOR3( 0, 0, 0 ),
                     ['position'] = VECTOR3( 318.5, 20.00122, 979.5001 ),
                 },
-                ['M1_UEFAlly_Base_Patrol_03'] = {
+                ['M1_UEFAlly_Initi_Patrol_03'] = {
                     ['color'] = STRING( 'ff800080' ),
                     ['type'] = STRING( 'Blank Marker' ),
                     ['prop'] = STRING( '/env/common/props/markers/M_Blank_prop.bp' ),
                     ['orientation'] = VECTOR3( 0, 0, 0 ),
                     ['position'] = VECTOR3( 337.5, 20.00122, 768.5001 ),
                 },
-                ['M1_UEFAlly_Base_Patrol_04'] = {
+                ['M1_UEFAlly_Initi_Patrol_04'] = {
                     ['color'] = STRING( 'ff800080' ),
                     ['type'] = STRING( 'Blank Marker' ),
                     ['prop'] = STRING( '/env/common/props/markers/M_Blank_prop.bp' ),
@@ -359,14 +359,14 @@ Scenario = {
                     ['orientation'] = VECTOR3( 0, 0, 0 ),
                     ['position'] = VECTOR3( 586.5, 20.00122, 787.5 ),
                 },
-                ['M1_UEFAlly_Base_Patrol_02'] = {
+                ['M1_UEFAlly_Initi_Patrol_02'] = {
                     ['color'] = STRING( 'ff800080' ),
                     ['type'] = STRING( 'Blank Marker' ),
                     ['prop'] = STRING( '/env/common/props/markers/M_Blank_prop.bp' ),
                     ['orientation'] = VECTOR3( 0, 0, 0 ),
                     ['position'] = VECTOR3( 442.5, 20.00122, 747.5 ),
                 },
-                ['M1_UEFAlly_Base_Patrol_01'] = {
+                ['M1_UEFAlly_Initi_Patrol_01'] = {
                     ['color'] = STRING( 'ff800080' ),
                     ['type'] = STRING( 'Blank Marker' ),
                     ['prop'] = STRING( '/env/common/props/markers/M_Blank_prop.bp' ),
@@ -418,12 +418,12 @@ Scenario = {
                 "M1_UEFAlly_Attack_East_B_04",
             },
         },
-        ['M1_UEFAlly_Base_Patrol'] = {
+        ['M1_UEFAlly_Initi_Patrol'] = {
             Markers = {
-                "M1_UEFAlly_Base_Patrol_01",
-                "M1_UEFAlly_Base_Patrol_02",
-                "M1_UEFAlly_Base_Patrol_03",
-                "M1_UEFAlly_Base_Patrol_04",
+                "M1_UEFAlly_Initi_Patrol_01",
+                "M1_UEFAlly_Initi_Patrol_02",
+                "M1_UEFAlly_Initi_Patrol_03",
+                "M1_UEFAlly_Initi_Patrol_04",
             },
         },
         ['M1_UEFAlly_Land_Patrol_A'] = {
