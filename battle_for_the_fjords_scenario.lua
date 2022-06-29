@@ -17,7 +17,7 @@ ScenarioInfo = {
             teams = {
                 {
                     name = 'FFA',
-                    armies = {'ARMY_1', 'UEFAlly', 'CYBRANEnemy'}
+                    armies = {'Player1', 'UEFAlly', 'CYBRANEnemy'}
                 },
             },
             customprops = {
