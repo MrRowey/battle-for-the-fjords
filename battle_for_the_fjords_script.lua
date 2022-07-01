@@ -14,7 +14,7 @@ function OnPopulate()
     ScenarioUtils.InitializeScenarioArmies()
 end
 
-local UEFAllySouthBase = BaseManager.CreateBaseManager()
+local UEFAllyAlliedBase = BaseManager.CreateBaseManager()
 
 function StartMission1()
     local opai = nil
@@ -24,16 +24,16 @@ function StartMission1()
     -- Setting the Playable Area
     ScenarioFramework.SetPlayableArea('M1_Playable_Area', false)
 
-    UEFAllySouthBase:InitializeDifficultyTables(
+    UEFAllyAlliedBase:InitializeDifficultyTables(
         ArmyBrains[UEFAlly],
-        'M1_South_Base',
-        'M1_South_Base_Marker',
+        'M1_Allied_Base',
+        'M1_Allied_Base_Marker',
         80,
-        {M1_South_Base = 100}
+        {M1_Allied_Base = 100}
     )
 
-    UEFAllySouthBase:StartNonZeroBase({{7,5,3}, {5,4,3}})
-    UEFAllySouthBase:SetActive('AirScouting', true)
+    UEFAllyAlliedBase:StartNonZeroBase({{7,5,3}, {5,4,3}})
+    UEFAllyAlliedBase:SetActive('AirScouting', true)
 
 
     -- # Basic bomming routes
@@ -41,7 +41,7 @@ function StartMission1()
     quantity = {6, 4, 2}
 
     ---@type OpAI
-    opai = UEFAllySouthBase:AddOpAI('AirAttacks', 'M1_UEFAlly_Bommber_Attack',
+    opai = UEFAllyAlliedBase:AddOpAI('AirAttacks', 'M1_UEFAlly_Bommber_Attack',
      {
          MasterPlatoonFunction = {SPAIFileName, 'PatrolThread'},
          PlatoonData = {
@@ -58,7 +58,7 @@ function StartMission1()
 
     -- #  Adds Some Baic Patrols for Interceptors to uses for defening the base
     quantity = {4,3,2}
-    opai = UEFAllySouthBase:AddOpAI('AirAttacks', 'M1_UEFAlly_Interceptor_Defence',
+    opai = UEFAllyAlliedBase:AddOpAI('AirAttacks', 'M1_UEFAlly_Interceptor_Defence',
      {
          MasterPlatoonFunction = {SPAIFileName, 'PatrolChainPickerThread'},
          PlatoonData = {
@@ -72,7 +72,6 @@ function StartMission1()
     opai:SetChildQuantity('Interceptors', quantity[Difficulty])
     opai:SetLockingStyle('None')
 
-
 end
 
 function OnStart(scenario)
@@ -80,8 +79,5 @@ function OnStart(scenario)
     SetAlliance(Player1, UEFAlly, 'Ally')
 
     StartMission1()
-
-
-
 
 end
