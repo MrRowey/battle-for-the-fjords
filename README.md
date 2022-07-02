@@ -5,14 +5,15 @@ Here in the image below is the first draft design with the sections of the maps 
 -	Enemy Forward Operating Base 1
 -	Enemy Forward Operating Base 2
 -	Main Enemy Base
+
 ![Drawing](https://user-images.githubusercontent.com/20344151/176049776-339f44c0-bb51-40e4-8e82-2085394c7d93.png)
 
-- Currently the mission will start with the player/s spawning in at the red area of the map. This is where the players will first is that on mission start you will spawn in are the red section to build up your start base needed that’s instructed by the academy officials.
-- Once base has been 50% constructed the map will expand to see your allied base in the orange
-- when you have completed the objects of defending your allied base your Operational area will expand to the first Enemy position that you will need to engage this is in the Lime Colour.
+1. Currently the mission will start with the player/s spawning in at the red area of the map. This is where the players will first be that on mission start you will spawn in are the red section to build up your start base needed that is instructed by the academy officials.
+2. Once base has been 50% constructed the map will expand to see your allied base in the orange who will provide air cover for your commander.
+3. When you have completed the objects of defending your allied base your Operational area will expand to the first Enemy position that you will need to engage this is in the Lime Colour.
+4. Once the primary FOB is destroying the Area will expand to the Secondary FOB that is attacking your allied base and you will be tasked to destroy it before staging the final assault.
+5. Once the secondary FOB is destroyed the map will have one final expansion and you will be needed to destroy the enemy Base commander along with any quantum gate to prevent from any escape from this planet to avoid us from being overrun.
 
-- Once the primary FOB is destrys the Area will expand to the Seconday FOB that is attacking your allied base and you will taksed to desty it befoer staing the final assult.
-- once the sconday FOB is destorey the Map will have one final expacion and you will be need to destyr the enemy Base commander along with any Quantum Gate to prevet from any esape from this planet to avoid us from being over run.
 
 # The Progress
 I will try to keep any updats listes here if this is in the form of Strema timelaps of certain thing done or some writen stuff this ams to be a learing curve for me but also as another documents Mission making tool.
