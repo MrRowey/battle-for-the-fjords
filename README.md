@@ -1,14 +1,16 @@
-# Battle for the Fjords Acadamy Finals Mission
-This will be my first Mission/Campagin Style content by folowing along the new Tutrial serirs By Jip on created a Mission like this. the Tutorials can be found [here](https://youtube.com/playlist?list=PL0nxuIUIjpFtCS0KGsZ_JsLB1Q8NP7EdT)
-
 # The Plan
-Here in the image below is the ruff desgin on the areas of the map that will expand on certian critera ment.
-
+Here in the image below is the first draft design with the sections of the maps laid out.
+-	The Players Spawn Location
+-	Allied Commander Base
+-	Enemy Forward Operating Base 1
+-	Enemy Forward Operating Base 2
+-	Main Enemy Base
 ![Drawing](https://user-images.githubusercontent.com/20344151/176049776-339f44c0-bb51-40e4-8e82-2085394c7d93.png)
 
-- The Current plan is that On mission start you will spawn in ar the red secion to build up your start base needed thats instructed by the acadamy officals.
+- Currently the mission will start with the player/s spawning in at the red area of the map. This is where the players will first is that on mission start you will spawn in are the red section to build up your start base needed that’s instructed by the academy officials.
 - Once base has been 50% constructed the map will expand to see your allied base in the orange
-- when you have completed the objects of defennding your allied base your Operationa area will expand to the first Enemy postion that you will need to engaded this is in the Lime Colour.
+- when you have completed the objects of defending your allied base your Operational area will expand to the first Enemy position that you will need to engage this is in the Lime Colour.
+
 - Once the primary FOB is destrys the Area will expand to the Seconday FOB that is attacking your allied base and you will taksed to desty it befoer staing the final assult.
 - once the sconday FOB is destorey the Map will have one final expacion and you will be need to destyr the enemy Base commander along with any Quantum Gate to prevet from any esape from this planet to avoid us from being over run.
 
