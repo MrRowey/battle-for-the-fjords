@@ -18,7 +18,7 @@ Here in the image below is the first draft design with the sections of the maps 
 # The Progress
 I will try to keep any updats listes here if this is in the form of Strema timelaps of certain thing done or some writen stuff this ams to be a learing curve for me but also as another documents Mission making tool.
 
-- [Update Logs](https://github.com/MrRowey/battle-for-the-fjords/wiki/Update-Logs)
+## [Update Logs](https://github.com/MrRowey/battle-for-the-fjords/wiki/Development-Logs)
 
 
 # License
